@@ -17,9 +17,9 @@
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
           },
-          "url": "https://github.com/Seeed-Studio/Seeeduino-Boards/blob/master/download_package/seeeduino-v1.0.0.zip?raw=true",
+          "url": "https://github.com/ekkai/board-manager/raw/master/seeeduino-v1.0.0.zip",
           "archiveFileName": "seeeduino-v1.0.0.zip",
-          "checksum": "SHA-256:db124e76b9cb9e788fa21c78d66e868472a2ec84a45ec25c92237a22b07a2b48",
+          "checksum": "SHA-256:db2ce860393cc7be4a5c7aebdfd39c4ac6adc78a4d2ac5249e0886b5b92e5",
           "size": "1899",
           "boards": [
             {"name": "Seeeduino V3.0(Atmega328P)"},
