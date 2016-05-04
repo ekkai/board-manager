@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/ekkai/board-manager/raw/master/seeeduino-v1.0.0.zip",
           "archiveFileName": "seeeduino-v1.0.0.zip",
-          "checksum": "SHA-256:db2ce860393cc7be4a5c7aebdfd39c4ac6adc78a4d2ac5249e0886b5b92e5",
+          "checksum": "SHA-256:2c79996e80eb9cc149c926403776d5b29604e1ff1c66790a3bc8a4263bd0619f",
           "size": "1794",
           "boards": [
             {"name": "Seeeduino V3.0(Atmega328P)"},
