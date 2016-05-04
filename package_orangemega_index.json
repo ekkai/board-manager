@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/ekkai/board-manager/raw/master/orange%20board-manager%201.0.zip",
           "archiveFileName": "orange%20board-manager%201.0.zip",
-          "checksum": "SHA-256:d7a8fdfefea9cf827097d1e2d9c24f583f8fdfdbabe5cd7d7bc47b1cd7f1ea78",
+          "checksum": "SHA-256:582f0322e8b1533d39d252a2733466a62bbbd715c00f433f1606f9c121a70d32",
           "size": "1047",
           "boards": [
             {"name": "orangeMega"}
