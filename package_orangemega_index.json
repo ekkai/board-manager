@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/ekkai/y/raw/master/orange%20board-manager%201.0.zip",
+          "url": "https://github.com/ekkai/board-manager/raw/master/orange%20board-manager%201.0.zip",
           "archiveFileName": "orange%20board-manager%201.0.zip",
           "checksum": "SHA-256:d7a8fdfefea9cf827097d1e2d9c24f583f8fdfdbabe5cd7d7bc47b1cd7f1ea78",
-          "size": "1091",
+          "size": "1047",
           "boards": [
             {"name": "orangeMega"}
           ],
